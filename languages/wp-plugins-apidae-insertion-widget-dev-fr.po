@@ -1,0 +1,39 @@
+# Translation of Plugins - Wapidae - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Wapidae - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-30 11:45+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.4.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Wapidae - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Description of the plugin
+msgid "This plugin add a shortcode to générate widgets. To use it : [wapidae id=\"XXX\"]. Developed by \"Bugey Plaine de l'Ain Tourisme\" and \"Apidae tourisme\" for partners and colaboration use. For bug resolve please contact our hotline : hotline.dev@apidae-tourisme.com"
+msgstr "Ce plugin ajoute un shortcode pour générer des widgets Apidae. Pour l'utiliser entrer : [wapidae id=\"XXX\"]. Développé par \"Bugey Plaine de l'Ain Tourisme\" et \"Apidae tourisme\" pour l'utilisation des partenaires et collaborateurs. En cas de résolution de bug, veuillez contacter notre hotline : hotline.dev@apidae-tourisme.com"
+
+#: ot_widget_apidae.php:102
+msgid "Widget id attribute is missing (find it at the end for integration url)"
+msgstr "Vous n'avez pas renseigné d'id de widget (à la fin de l'url d'intégration)"
+
+#. Author URI of the plugin
+msgid "https://vincentgaullier.fr/"
+msgstr "https://vincentgaullier.fr/"
+
+#. Author of the plugin
+msgid "Vincent Gaullier, Maxime Berger"
+msgstr "Vincent Gaullier, Maxime Berger"
+
+#. Plugin URI of the plugin
+msgid "https://www.perouges-bugey-tourisme.com/"
+msgstr "https://www.perouges-bugey-tourisme.com/"
+
+#. Plugin Name of the plugin
+msgid "Apidae Insertion Widget"
+msgstr "Insertion de Widget Apidae"

@@ -1,0 +1,133 @@
+# Translation of Plugins - Wapidae - Development Readme (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Wapidae - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-30 11:42+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.4.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Wapidae - Development Readme (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#. Short description.
+msgid "Add a shortcode to générate apidae widgets."
+msgstr "Ajoute un shortcode pour générer des widgets Apidae."
+
+#. Plugin name.
+msgid "Wapidae"
+msgstr "Wapidae"
+
+#. Found in installation paragraph.
+msgid "In the search field type Wapidae and click Search Plugins. Once you've found our plugin you install it by simply clicking Install Now."
+msgstr "Dans la barre de recherche tapez Wapidae et cliquez sur Rechercher Plugins. Une fois que vous avez trouvé votre plugin, installez le en cliquant simplement sur Installer."
+
+#. Found in description list item.
+msgid "Maxime BERGER <a href=\"https://apidae-tourisme.com/\">https://apidae-tourisme.com/</a>"
+msgstr "Maxime BERGER <a href=\"https://apidae-tourisme.com/\">https://apidae-tourisme.com/</a>"
+
+#. Found in description list item.
+msgid "Vincent GAULLIER <a href=\"https://vincentgaullier.fr/\">https://vincentgaullier.fr/</a>, <a href=\"https://www.perouges-bugey-tourisme.com/\">https://www.perouges-bugey-tourisme.com/</a>"
+msgstr "Vincent GAULLIER <a href=\"https://vincentgaullier.fr/\">https://vincentgaullier.fr/</a> <a href=\"https://www.perouges-bugey-tourisme.com/\">https://www.perouges-bugey-tourisme.com/</a>"
+
+#. Found in description header.
+msgid "Contributors &amp; Developers"
+msgstr "Contributeurs et développeurs"
+
+#. Found in faq paragraph.
+msgid "No questions so far, but don't hesitate to ask!"
+msgstr "Pas de questions pour le moment, mais n'hésitez pas à en poser !"
+
+#. Found in installation paragraph.
+msgid "Automatic updates should seamlessly work. We always suggest you backup up your website before performing any automated update to avoid unforeseen problems."
+msgstr "La mise à jour automatique devrait fonctionner comme d'habitude. Nous vous suggérons de toujours sauvegarder votre site web avant de lancer n'importe quelle mise à jour automatisée pour éviter les problèmes imprévus."
+
+#. Found in installation paragraph.
+msgid "The manual installation method involves downloading Wapidae and uploading it to your webserver via your favourite FTP application. The WordPress codex will tell you more <a href=\"https://wordpress.org/support/article/managing-plugins/#manual-plugin-installation\">here</a>."
+msgstr "La méthode d'installation manuelle implique de télécharger Wapidae et de l'upload dans votre serveur web via votre application FTP favorite. Le codex WordPress vous en dira plus <a href=\"https://wordpress.org/support/article/managing-plugins/#manual-plugin-installation\">ici</a>."
+
+#. Found in installation paragraph.
+msgid "Automatic installation is the easiest option. To do an automatic install of Wapidae, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New."
+msgstr "L'installation automatique est l'option la plus simple. Pour faire une installation automatique de Wapidae, connectez vous à votre tableau de bord WordPress, naviguez jusqu'au menu Plugins et cliquez sur Ajouter Nouveau."
+
+#. Found in installation paragraph.
+msgid "PHP version 7.0 or greater"
+msgstr "PHP version 7.0 ou plus"
+
+#. Found in installation paragraph.
+msgid "WordPress 4.7 or greater"
+msgstr "WordPress 4.7 ou plus"
+
+#. Found in installation header.
+msgid "Updating"
+msgstr "Mise à jour"
+
+#. Found in installation header.
+msgid "Manual installation"
+msgstr "Installation manuelle"
+
+#. Found in installation header.
+msgid "Automatic installation"
+msgstr "Installation automatique"
+
+#. Found in installation header.
+msgid "Minimum Requirements"
+msgstr "Prérequis minimum"
+
+#. Found in description paragraph.
+msgid ""
+"WARNING\n"
+"The use apidae widgets is not given to everyone. You need to see with your facilitator beacause widgets only work for the people to whom the tourist office is made available."
+msgstr ""
+"ATTENTION\n"
+"L'utilisation des widgets Apidae n'est pas donné à tout le monde. Vous devez voir avec votre animateurs car les widgets ne fonctionne que pour les personnes à qui l'office de tourisme les à mis à disposition."
+
+#. Found in description paragraph.
+msgid "3) Publish the page and watch the result."
+msgstr "3) Publiez la page et regardez le résultat."
+
+#. Found in description paragraph.
+msgid ""
+"For you who don't necessarily know how to code using JavaScript : we created this plugin to make it easier for you to use Apidae widgets.\n"
+"This plugin is developed by \"Bugey Plaine de l'Ain Tourisme\" and \"Apidae tourisme\" for partners and colaboration use.\n"
+"For bug resolve please contact our hotline : hotline.dev@apidae-tourisme.com"
+msgstr ""
+"Pour ceux qui savent pas forcément coder en utilisant du JavaScript : nous avons créé ce plugin pour rendre plus facile l'utilisation des widgets Apidae.\n"
+"Ce plugin est développé par \"Bugey Plaine de l'Ain Tourisme\" et \"Apidae tourisme\" pour l'utilisation des partenaires et collaborateurs.\n"
+"Pour la résolution de bug, veuillez contacter la hotline : hotline.dev@apidae-tourisme.com"
+
+#. Found in description list item.
+msgid "2) Inside the shortcode bloc write : [wapidae id=\"XXX\"] where XXX is your widget number(the end of the integration URL before \".js\")."
+msgstr "2) À l'intérieur du bloc de shortcode écrivez : [wapidae id=\"XXX\"] avec XXX qui correspond au numéro de votre widget (la fin de l'URL d'intégration juste avant \".js\")."
+
+#. Found in description list item.
+msgid "1) Find where to insert shortcodes (it was directly done in Wysiwg with Wordpress 4, but since the fifth there is an specific element)."
+msgstr "1) Trouvez où insérer votre shortcode (c'était fait directement en Wysiwg avec WordPress 4, mais depuis le 5 il y a élément specifique)."
+
+#. Found in description list item.
+msgid "Shortcode for the generation of widgets. "
+msgstr "Un shortcode pour la génération de widgets. "
+
+#. Found in description header.
+msgid "How to use it"
+msgstr "Comment l'utiliser"
+
+#. Found in description header.
+msgid "FEATURES"
+msgstr "CARACTÉRISTIQUES"
+
+#. Screenshot description.
+msgid "Use of Wapidae in a short code"
+msgstr "L'utilisation de Wapidae dans un shortcode"
+
+#. Found in changelog list item.
+msgid "Initial realease."
+msgstr "Version initiale."
+
+#. Found in changelog list item.
+msgid "Improved documentation"
+msgstr "Documentation améliorée"
